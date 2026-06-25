@@ -1,0 +1,2 @@
+# Parameter-Extraction-for-an-Antenna-Evaluation-Framework-Used-by-Causal-Driven-Systems
+S-Parameter Data Extraction, Processing, and Algorithm Analysis %% This code’s functionality (20260119): Merges two code segments so that when a user enters an S-parameter (e.g., S(1,1)), % the program can automatically extract the data for that S-parameter from the original CSV file, process it using the algorithm, and output an image.
